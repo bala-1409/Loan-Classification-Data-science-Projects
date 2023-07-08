@@ -1,6 +1,6 @@
 # Loan-Classification-Datascience-Project
 This project uses machine learning algorithms to predict the classification of loan status. The dataset is loaded and some transformation is done using SQL for getting a proper dataset with some valid informations. The project uses a loan applications which includes information about the individuals who are applying for the loan. With that data, training the model and getting the high accuracy model and using it predicting the future loan status with the needed data.
-## Problem Statement :
+## Problem Statement : 
 Loan Lenders need to be able to accurately predict whether the loan will be repaid inorder to minimize the risk. By predicting the loan status of every individual, the lenders can able to follow the results of it to find out the differences among the behaviourial pattern of the customer. This is challenging problem because there are many factors that can influence the loan status.
 ## Solution Approach :
 With the help of Structured Query Language (SQL), transforming the data with the bunch of datasets which has different informations on Customer's behaviourial pattern. By the following structural mapping, joining the datasets to get the final data.  
